@@ -9,15 +9,15 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    zenn-cli: "npm:^0.1.141"
+    zenn-cli: "npm:^0.1.148"
   languageName: unknown
   linkType: soft
 
-"zenn-cli@npm:^0.1.141":
-  version: 0.1.141
-  resolution: "zenn-cli@npm:0.1.141"
+"zenn-cli@npm:^0.1.148":
+  version: 0.1.148
+  resolution: "zenn-cli@npm:0.1.148"
   bin:
     zenn: dist/server/zenn.js
-  checksum: e6c2862e71a5b572c816d79d805456e32195f24a7d823f7c4d397dfae892befa1c67a2eb502112693b1ff118e84efcd622b7cb31cdbc07f906928899e4f24b05
+  checksum: 9291fd9822531a88ccb28a6f73e400148461c20d95b795c263b67e8e7abfd28cf62363b93a8fc3c38a745fa17186735a0030a15437e6ccbfb7fd01e3afe3ffed
   languageName: node
   linkType: hard
